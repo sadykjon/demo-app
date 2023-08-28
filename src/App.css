@@ -1,0 +1,177 @@
+/* ? counter */ 
+  .wrapper{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+} 
+/* p{ 
+    text-align: center;
+    margin-bottom: 2rem;
+}
+.counter{
+    width: 400px;
+    padding: 10px;
+    border-radius: 8px;
+    background: linear-gradient(to bottom right, #53565a,#3b3d3f);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
+.counter h2{
+    color: #ffd100;
+    grid-column: span 2;
+    font-size: 6rem;
+    text-align: center;
+    margin: 0;
+    overflow: hidden;
+    position: relative;
+    max-width: calc(100%);
+}
+.counter button{
+    border: none;
+    background: linear-gradient(to bottom right, #eee,#dddd);
+    overflow: hidden;
+    font-size: 2rem;
+    cursor: pointer;
+    padding: calc(var(--unit)/2)0 ;
+    border-radius: 4px;
+
+    
+}
+
+.counter button span{
+    display: block;
+    transition: all 0.15s ease;
+}
+.counter button:hover span{
+transform: scale(1.2);
+color: red;
+font-weight: bold;
+
+}
+
+.counter button:last-of-type{
+    grid-column: span 2;
+    
+    } */
+/* ? btn */
+
+    /* .BTN{
+        padding: 0;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between ;
+    }
+    .btn{
+        display: grid;
+        padding: 50px 70px;
+        gap: 20px;
+        background-color: blue;
+    }
+    .btn1{
+        display: grid;
+        padding: 50px 70px;
+        gap: 20px;
+        background-color: red;
+    } */
+/* ? menu */
+    /* .Menu{
+    
+        flex-direction:column;
+        justify-content: space-between ; 
+        cursor: pointer;
+    }
+    .menu{
+        color: black;
+    }
+    .menu1{
+        color: red;
+    } */
+
+
+    /* ?card */
+
+/* .card{
+    margin: 20px;
+    width: 240px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 0 10px 5px rgba(221, 221, 221 ,1);
+    padding: 10px;
+    align-items: center;
+}
+
+.card img{
+    width: 100%;
+}
+.card .variant {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card span{
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 10px;
+    /* border: 3px solid #eee; */
+
+/* .border{
+    border: 3px solid red;
+}
+.border1{
+ border: 3px solid #eee;
+} */ 
+/* ? batery */
+
+/* .block {
+    width: 460px;
+    height: 240px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    gap: 5px;
+    padding: 15px;
+    position: absolute;
+    top: 50px;
+    left: 450px;
+  }
+  
+  .twen {
+    width: 150px;
+    height: 240px;
+  }
+  
+  .six {
+    width: 150px;
+    height: 240px;
+  }
+  
+  .block h2 {
+    display: flex;
+    position: absolute;
+    left: 250px;
+    top: 300px;
+    color: #333;
+  }
+ */
+
+
+/*  Battery */
+.battery {
+    border: 1px solid #111;
+    width: 300px;
+    height: 200px;
+    padding: 5px;
+    display: flex;
+    gap: 5px;
+  }
+  .item {
+    border: 1px solid #111;
+    width: 100px;
+    height: 200px;
+  }
+  .procent{
+    font-size: 100px;
+  }
